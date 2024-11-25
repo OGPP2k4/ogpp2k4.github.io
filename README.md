@@ -1,2 +1,2 @@
-# ogpp2k4.github.io
-(C) OGPP2k4 2024-2024 ALL RIGHT REVERSED.
+# io.github.ogpp2k4
+MyWebsite for Git Group.
