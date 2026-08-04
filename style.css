@@ -1,0 +1,16 @@
+body {
+	background-color: navy;
+}
+
+table {
+	font-family: "courier", selif;
+	background-color: #fffb00;
+}
+
+tr{
+	color: black;
+}
+
+tr.invert {
+	color: red;
+}
