@@ -1,13 +1,13 @@
 body {
 	background-color: navy;
+	color: white;
 }
 
 table {
-	font-family: "courier", selif;
 	background-color: #fffb00;
 }
 
-tr{
+tr {
 	color: black;
 }
 
